@@ -55,7 +55,7 @@ int main(){
 	
 	Root *root= NULL ;
 
-	int arr[8]  ={5,3,7,9,5,6,1,2};
+	int arr[8]  ={6,7,8,9,1,4};
 	int i=0;
 	for(i=0; i<8;i++)
 	   {
